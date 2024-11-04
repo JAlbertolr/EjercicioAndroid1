@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">prueba1</string>
+    <string name="tituloPantalla1">Mi primera APP Android</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="instagram">Instagram</string>
+    <string name="usuario">Name</string>
+    <string name="password">Password</string>
+    <string name="or">---------OR----------</string>
+    <string name="login">Log in</string>
+    <string name="facebook">Log in with Facebook</string>
+    <string name="lorem_ipsum">
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+</resources>
